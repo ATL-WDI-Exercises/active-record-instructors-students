@@ -2,6 +2,8 @@
 
 ## Instructions
 
+After you clone this repo, then do the following:
+
 ### Step 1. Create the `wdi_db` PostgreSQL database:
 
 ```bash
